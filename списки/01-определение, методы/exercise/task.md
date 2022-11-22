@@ -13,3 +13,5 @@
     get_square_roots(25)  # [-5.0, 5.0]
     get_square_roots(0)  # [0]
     get_square_roots(-25)  # []
+***
+проще будет использовать функцию sqrt из модуля math
